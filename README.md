@@ -1,1 +1,1 @@
-#### Marketing_Personalities_Analysis
+#### In this project, we downloaded a marketing csv file from https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis. This file includes some basic demographic features like age, income, education, etc. We build a linear regression model and logistic regression model to analysis the potential customers in the future.
